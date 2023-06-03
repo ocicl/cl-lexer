@@ -1,0 +1,9 @@
+* cl-lexer
+
+K.M. Parker's lisp lexer, and developments thereof
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/starseeker/cl-lexer.git |
+| commit  | 528e6bf                                        |
+| systems | cl-lexer                                       |
+|---------+------------------------------------------------|
